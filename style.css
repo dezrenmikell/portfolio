@@ -141,7 +141,7 @@ body{
   }
   body{
     background: rgba(66, 33, 99, .3);
-    backgroundbackground-repeat: no-repeat;
+    background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
