@@ -6,11 +6,6 @@
       padding: 0 40px;
 }
 
-body{
-    background: rebeccapurple;
-    
-}
-
 .parent{
     display: grid;
     grid-template-rows: 20px 50px 20px 50px 1fr 20px 50px 20px;
@@ -146,6 +141,9 @@ body{
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
+  }
+  p{
+    text-align: center;
   }
 
 
