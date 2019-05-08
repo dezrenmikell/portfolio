@@ -128,7 +128,8 @@ body{
   .child-thirteen{
     grid-row: 8;
     grid-column: 1 / span 3;
-    background: rebeccapurple;
+    background: rgba(66, 33, 99, .3);
+
 
   }
   img{
