@@ -4,6 +4,7 @@
     list-style-type: none;
       display: inline;
       padding: 0 40px;
+      font-family: 'ZCOOL KuaiLe', cursive;
 }
 
 .parent{
@@ -136,15 +137,25 @@
       
   }
   body{
-    background: rgba(66, 33, 99, .3);
+    background: silver;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
-    font-family: 'ZCOOL KuaiLe', cursive;
+    
   }
   p{
     text-align: center;
+    font-size: 18px;
+  }
+  h2{
+    font-family: 'ZCOOL KuaiLe', cursive;
+  }
+  li{
+    font-family: 'ZCOOL KuaiLe', cursive;
+  }
+  h1{
+    font-family: 'ZCOOL KuaiLe', cursive;
   }
 
 
