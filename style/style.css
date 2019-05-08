@@ -109,7 +109,7 @@ body{
   .child-ten{
     grid-row: 6;
     grid-column: 1 / span 3;
-    background: rgba(66, 33, 99, .3);
+    background: rebeccapurple;
 
   }
   .child-eleven{
